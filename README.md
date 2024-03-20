@@ -7,5 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+# TUGAS 1 PORTOFOLIO WAHYUDI 21076076
+# Menggunakan Laravel dan Admin Template Filament
 
